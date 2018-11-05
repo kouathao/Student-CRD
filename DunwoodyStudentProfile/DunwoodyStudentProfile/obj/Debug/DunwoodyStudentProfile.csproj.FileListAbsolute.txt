@@ -1,0 +1,15 @@
+c:\users\thakouj\documents\visual studio 2017\Projects\DunwoodyStudentProfile\DunwoodyStudentProfile\bin\Debug\DunwoodyStudentProfile.exe.config
+c:\users\thakouj\documents\visual studio 2017\Projects\DunwoodyStudentProfile\DunwoodyStudentProfile\bin\Debug\DunwoodyStudentProfile.exe
+c:\users\thakouj\documents\visual studio 2017\Projects\DunwoodyStudentProfile\DunwoodyStudentProfile\bin\Debug\DunwoodyStudentProfile.pdb
+c:\users\thakouj\documents\visual studio 2017\Projects\DunwoodyStudentProfile\DunwoodyStudentProfile\bin\Debug\MetroFramework.Design.dll
+c:\users\thakouj\documents\visual studio 2017\Projects\DunwoodyStudentProfile\DunwoodyStudentProfile\bin\Debug\MetroFramework.dll
+c:\users\thakouj\documents\visual studio 2017\Projects\DunwoodyStudentProfile\DunwoodyStudentProfile\bin\Debug\MetroFramework.Fonts.dll
+c:\users\thakouj\documents\visual studio 2017\Projects\DunwoodyStudentProfile\DunwoodyStudentProfile\obj\Debug\DunwoodyStudentProfile.csprojResolveAssemblyReference.cache
+c:\users\thakouj\documents\visual studio 2017\Projects\DunwoodyStudentProfile\DunwoodyStudentProfile\obj\Debug\DunwoodyStudentProfile.Form1.resources
+c:\users\thakouj\documents\visual studio 2017\Projects\DunwoodyStudentProfile\DunwoodyStudentProfile\obj\Debug\DunwoodyStudentProfile.Properties.Resources.resources
+c:\users\thakouj\documents\visual studio 2017\Projects\DunwoodyStudentProfile\DunwoodyStudentProfile\obj\Debug\DunwoodyStudentProfile.csproj.GenerateResource.Cache
+c:\users\thakouj\documents\visual studio 2017\Projects\DunwoodyStudentProfile\DunwoodyStudentProfile\obj\Debug\DunwoodyStudentProfile.exe
+c:\users\thakouj\documents\visual studio 2017\Projects\DunwoodyStudentProfile\DunwoodyStudentProfile\obj\Debug\DunwoodyStudentProfile.pdb
+c:\users\thakouj\documents\visual studio 2017\Projects\DunwoodyStudentProfile\DunwoodyStudentProfile\obj\Debug\DunwoodyStudentProfile.Form2.resources
+C:\Users\thakouj\documents\visual studio 2017\Projects\DunwoodyStudentProfile\DunwoodyStudentProfile\obj\Debug\DunwoodyStudentProfile.Form4.resources
+C:\Users\thakouj\documents\visual studio 2017\Projects\DunwoodyStudentProfile\DunwoodyStudentProfile\obj\Debug\DunwoodyStudentProfile.Form3.resources
