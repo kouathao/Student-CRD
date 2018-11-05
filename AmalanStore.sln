@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmalanStore.Domain", "AmalanStore.Domain\AmalanStore.Domain.csproj", "{27385310-03A2-4DDA-BE33-64731DEA310E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmalanStore.WebUI", "AmalanStore.WebUI\AmalanStore.WebUI.csproj", "{68CEB990-3520-49BB-9AFF-6CB8739ABAD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27385310-03A2-4DDA-BE33-64731DEA310E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27385310-03A2-4DDA-BE33-64731DEA310E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27385310-03A2-4DDA-BE33-64731DEA310E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27385310-03A2-4DDA-BE33-64731DEA310E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68CEB990-3520-49BB-9AFF-6CB8739ABAD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68CEB990-3520-49BB-9AFF-6CB8739ABAD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68CEB990-3520-49BB-9AFF-6CB8739ABAD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68CEB990-3520-49BB-9AFF-6CB8739ABAD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
